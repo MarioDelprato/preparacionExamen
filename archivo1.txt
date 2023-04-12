@@ -1,1 +1,2 @@
 Primer archivo de prueba en Git
+Vamos a hacer un cambio en el archivo para probar git diff
